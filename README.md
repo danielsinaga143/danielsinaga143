@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="mailto:danieldpssinaga@gmail.com">danieldpssinaga@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/daniel-parlindungan-sinaga-130127387/">LinkedIn</a> ·
-  Bandung, Jawa Barat, Indonesia
-</p>
-
----
-
 ## About
 
 Final-year Computer Engineering student at Telkom University (GPA 3.26/4.00), specializing in Machine Learning, Deep Learning, and data analysis. Experienced in building predictive models with Python and scikit-learn, and in automating Linux server security using Ansible. Currently seeking an internship in AI/Machine Learning, Cybersecurity, or Web Development.
