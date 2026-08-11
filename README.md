@@ -1,6 +1,3 @@
-<h1 align="center">Daniel Parlindungan Sinaga</h1>
-<h3 align="center">Computer Engineering Student — Machine Learning & Security Automation</h3>
-
 <p align="center">
   <a href="mailto:danieldpssinaga@gmail.com">danieldpssinaga@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/daniel-parlindungan-sinaga-130127387/">LinkedIn</a> ·
@@ -42,10 +39,3 @@ Hardened server security based on CIS Benchmark standards using Ansible across 1
 
 **Practicum Division**, Laboratorium Everything Connected, Telkom University (Feb 2025 – Mar 2026)
 Taught computer networking and data practicum sessions; evaluated student performance and provided technical guidance on routing and networking devices.
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielsinaga143&show_icons=true&theme=default&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsinaga143&layout=compact&theme=default" height="160" />
-</p>
