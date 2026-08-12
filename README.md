@@ -5,7 +5,9 @@ Final-year Computer Engineering student at Telkom University (GPA 3.26/4.00), sp
 ## Skills
 
 **Languages & Tools:** Python, C, scikit-learn, Ansible, Django REST Framework, React, MySQL, Cisco Packet Tracer, Figma
+
 **Areas:** Machine Learning, Deep Learning, Security Automation, Computer Networking, IoT
+
 **Languages:** Bahasa Indonesia (native), English (fluent)
 
 ## Projects
